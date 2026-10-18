@@ -63,25 +63,7 @@ const PRODUCTS = [
     price: "GRATIS \u{27A1}",
     status: "disponivel",
     url: "https://testar-app.pytksolutions.com.br/"
-  },
-  {
-    code: "PYTK-006",
-    name: "",
-    tagline: ".",
-    icon: "",
-    price: "",
-    status: "en-breve",
-    url: "#"
-  },
-  {
-    code: "PYTK-007",
-    name: "",
-    tagline: ".",
-    icon: "",
-    price: "",
-    status: "en-breve",
-    url: "#"
-  },
+  }
 ];
 
 function createCard(product) {
